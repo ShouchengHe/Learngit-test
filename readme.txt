@@ -6,4 +6,9 @@ so many rules i have to learn and I dont get used to it.
 This is a new change.
 Vim is so hard
 Git is a free software
-create a git branch is fast & simple
+
+
+
+create a branch is so fast and simple
+
+>>>>>>> dev
