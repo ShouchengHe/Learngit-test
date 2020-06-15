@@ -11,4 +11,4 @@ Git is a free software
 
 create a branch is so fast and simple
 
->>>>>>> dev
+
